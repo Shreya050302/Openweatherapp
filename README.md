@@ -16,4 +16,5 @@ A simple **Weather Web App** built with **HTML, CSS, and JavaScript** that fetch
 - **CSS3**  
 - **JavaScript (Fetch API)**  
 - **WeatherAPI**  
-
+## DEPLOY ON NETLIFY
+-**https://opencloudweather.netlify.app/**
